@@ -22,7 +22,7 @@ spec:
           value: guest
         - name: RABBITMQ_DEFAULT_USER
           value: guest
-        image: luiscoms/openshift-rabbitmq
+        image: rabbitmq:3.7-management
         name: rabbitmq
         ports:
         - containerPort: 5672
