@@ -5,6 +5,6 @@ alertThreshold: 0.5
 analysisTolerance: LOW
 appDynamicsApplicationName: MyApp
 connectorName: AppDynamics
-enabled24x7: false
+enabled24x7: true
 serviceName: ad-capital-lab
 tierName: Portal-Service
